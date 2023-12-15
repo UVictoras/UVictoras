@@ -1,6 +1,9 @@
-<div align="center">
-  <img align="right" alt="Coding" width="100%" src="profil.png">
-</div>
+<p>
+  <div align="center">
+    <img align="right" alt="Coding" width="100%" src="profil.png">
+  </div>
+</p>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whit)">
